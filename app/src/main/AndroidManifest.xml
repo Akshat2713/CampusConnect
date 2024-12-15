@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/smvdu_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/smvdu_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Jugaad"
+        tools:targetApi="31">
+        <activity
+            android:name=".LinksPage"
+            android:exported="false"
+            android:label="@string/title_activity_links_page"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".EditPage"
+            android:exported="false"
+            android:label="@string/title_activity_edit_page"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".RegistrationPageTwo"
+            android:exported="false"
+            android:label="@string/title_activity_registration_page_two"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".LandingPage"
+            android:exported="false"
+            android:label="@string/title_activity_landing_page"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".QuizPage"
+            android:exported="false"
+            android:label="@string/title_activity_quiz_page"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".ProfilePage"
+            android:exported="false"
+            android:label="@string/title_activity_profile_page"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".RegistrationPageOne"
+            android:exported="false"
+            android:label="@string/title_activity_resistration_page1"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".ChatActivity"
+            android:exported="false"
+            android:label="@string/title_activity_chat"
+            android:theme="@style/Theme.Jugaad" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Jugaad">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
