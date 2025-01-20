@@ -26,22 +26,27 @@
    - Firebase Authentication ensures secure login and registration.
    - Data stored and managed in Firestore with proper access control.
 
+
 ---
 
-## Screenshots
+## Screenshots  
 
-_Add screenshots of the app's main pages here, such as the registration page, profile page, skill-based search, and chat interface._
-![IMG-20241205-WA0006](https://github.com/user-attachments/assets/00f6e8a4-05dd-4407-8dc2-54297de0135b)
-![WhatsApp Image 2024-12-05 at 12 10 19_a4eba41c](https://github.com/user-attachments/assets/17753e41-2d52-47d0-9e6d-2a6282eff8f3)
-![WhatsApp Image 2024-12-05 at 13 37 20_6dc9e8ec](https://github.com/user-attachments/assets/2bbaa143-7547-4c95-8850-e1d54b226a9b)
-![WhatsApp Image 2024-12-05 at 13 37 20_8fb39aa1](https://github.com/user-attachments/assets/4a7a02e9-ad64-4fb8-9174-cf133e3bce55)
-![IMG-20241205-WA0007](https://github.com/user-attachments/assets/e1fb3a2b-9c88-4478-9389-012ea28e68dd)
-![IMG-20241205-WA0012](https://github.com/user-attachments/assets/2f15af88-ad2b-4aad-82bb-110da2869fb1)
-![IMG-20241205-WA0011](https://github.com/user-attachments/assets/f9dbc78e-44b3-4c0c-8eed-9bd7358dc705)
-![IMG-20241205-WA0010](https://github.com/user-attachments/assets/2f0098e6-a08a-4413-bbda-f6f3f5d508a0)
-![IMG-20241205-WA0009](https://github.com/user-attachments/assets/02eb68f0-7dbb-4b1b-943f-6588f219e9bd)
-![IMG-20241205-WA0008](https://github.com/user-attachments/assets/4b9ae8cb-ee65-4bfe-986d-0ea8f7968ddc)
-![IMG-20241205-WA0013](https://github.com/user-attachments/assets/95be4732-24f0-4de2-8917-ff2a6bf3ef21)
+
+| ![Registration Page](https://github.com/user-attachments/assets/00f6e8a4-05dd-4407-8dc2-54297de0135b) | ![Skill Search](https://github.com/user-attachments/assets/17753e41-2d52-47d0-9e6d-2a6282eff8f3) | ![Quiz Page](https://github.com/user-attachments/assets/2bbaa143-7547-4c95-8850-e1d54b226a9b) |  
+|:---:|:---:|:---:|  
+| **Registration Page** | **Skill Search** | **Quiz Page** |  
+
+| ![Chat Feature](https://github.com/user-attachments/assets/4a7a02e9-ad64-4fb8-9174-cf133e3bce55) | ![Profile Page](https://github.com/user-attachments/assets/e1fb3a2b-9c88-4478-9389-012ea28e68dd) | ![Filtered Search](https://github.com/user-attachments/assets/2f15af88-ad2b-4aad-82bb-110da2869fb1) |  
+|:---:|:---:|:---:|  
+| **Chat Feature** | **Profile Page** | **Filtered Search** |  
+
+| ![Edit Profile](https://github.com/user-attachments/assets/f9dbc78e-44b3-4c0c-8eed-9bd7358dc705) | ![Dashboard](https://github.com/user-attachments/assets/2f0098e6-a08a-4413-bbda-f6f3f5d508a0) | ![Settings](https://github.com/user-attachments/assets/02eb68f0-7dbb-4b1b-943f-6588f219e9bd) |  
+|:---:|:---:|:---:|  
+| **Edit Profile** | **Dashboard** | **Settings** |  
+
+| ![Notifications](https://github.com/user-attachments/assets/4b9ae8cb-ee65-4bfe-986d-0ea8f7968ddc) | ![User Engagement](https://github.com/user-attachments/assets/95be4732-24f0-4de2-8917-ff2a6bf3ef21) | |  
+|:---:|:---:|:---:|  
+| **Notifications** | **User Engagement** | |
 
 
 ---
@@ -144,4 +149,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Feel free to update this README with any additional features or customizations you implement!
-
